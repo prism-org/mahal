@@ -1,5 +1,5 @@
 # Mahal Empowerment
-This repository is to work on issues related to Mahal Empowerment. The issues may be opened based on brainstorming sessions conducted by PRISM or it could be an issue which an member can open to further discuss about it to help Mahal Empowering.
+This repository is to work on issues related to Mahal Empowerment. The issues may be opened based on brainstorming sessions conducted by PRISM or it could be an issue which a member can open to further discuss about it to help Mahal Empowering.
 
 ## Following are the LABELs which are used (as of now) to better organize the issues
 
